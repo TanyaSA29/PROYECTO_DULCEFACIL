@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04F73DD2-EBFE-4576-8AC2-D0279884C2AB}|DulceFacil.Infraestructura.ServiciosExternos\\DulceFacil.Infraestructura.ServiciosExterno.csproj|c:\\users\\administrador\\desktop\\tares2-tanyaarias\\apidulcefacil\\dulcefacil.infraestructura.serviciosexternos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F73DD2-EBFE-4576-8AC2-D0279884C2AB}|DulceFacil.Infraestructura.ServiciosExternos\\DulceFacil.Infraestructura.ServiciosExterno.csproj|solutionrelative:dulcefacil.infraestructura.serviciosexternos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.ServiciosExternos\\Class1.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Infraestructura.ServiciosExternos\\Class1.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.ServiciosExternos\\Class1.cs",
+              "RelativeToolTip": "DulceFacil.Infraestructura.ServiciosExternos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:23:57.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
