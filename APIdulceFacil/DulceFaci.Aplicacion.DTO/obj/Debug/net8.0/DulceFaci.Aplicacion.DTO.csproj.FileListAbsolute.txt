@@ -1,0 +1,12 @@
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFaci.Aplicacion.DTO\bin\Debug\net8.0\DulceFaci.Aplicacion.DTO.deps.json
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFaci.Aplicacion.DTO\bin\Debug\net8.0\DulceFaci.Aplicacion.DTO.dll
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFaci.Aplicacion.DTO\bin\Debug\net8.0\DulceFaci.Aplicacion.DTO.pdb
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFaci.Aplicacion.DTO\obj\Debug\net8.0\DulceFaci.Aplicacion.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFaci.Aplicacion.DTO\obj\Debug\net8.0\DulceFaci.Aplicacion.DTO.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFaci.Aplicacion.DTO\obj\Debug\net8.0\DulceFaci.Aplicacion.DTO.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFaci.Aplicacion.DTO\obj\Debug\net8.0\DulceFaci.Aplicacion.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFaci.Aplicacion.DTO\obj\Debug\net8.0\DulceFaci.Aplicacion.DTO.sourcelink.json
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFaci.Aplicacion.DTO\obj\Debug\net8.0\DulceFaci.Aplicacion.DTO.dll
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFaci.Aplicacion.DTO\obj\Debug\net8.0\refint\DulceFaci.Aplicacion.DTO.dll
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFaci.Aplicacion.DTO\obj\Debug\net8.0\DulceFaci.Aplicacion.DTO.pdb
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFaci.Aplicacion.DTO\obj\Debug\net8.0\ref\DulceFaci.Aplicacion.DTO.dll

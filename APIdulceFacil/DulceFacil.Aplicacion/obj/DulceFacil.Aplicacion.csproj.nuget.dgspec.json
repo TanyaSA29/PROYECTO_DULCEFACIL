@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj": {}
+    "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
         "projectName": "DulceFacil.Aplicacion",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Aplicacion\\DulceFacil.Aplicacion.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Aplicacion\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj"
+              "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj": {
+                "projectPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj"
               },
-              "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj"
+              "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj": {
+                "projectPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj"
               },
-              "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj"
+              "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj"
               }
             }
           }
@@ -60,6 +60,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[8.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -80,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj",
         "projectName": "DulceFacil.Dominio.Modelo",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -146,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj",
         "projectName": "DulceFacil.Dominio.Servicio",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -212,14 +218,14 @@
         }
       }
     },
-    "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj": {
+    "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj",
         "projectName": "DulceFacil.Infraestructura.AccesoDatos",
-        "projectPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj",
+        "projectPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.AccesoDatos\\DulceFacil.Infraestructura.AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.AccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Infraestructura.AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -241,11 +247,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj"
+              "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj": {
+                "projectPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj"
               },
-              "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj": {
-                "projectPath": "C:\\Users\\Administrador\\Desktop\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj"
+              "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj": {
+                "projectPath": "C:\\Users\\Administrador\\Desktop\\UNIVERSODAD\\SEXTO\\DESARROLLO\\TareS2-TanyaArias\\APIdulceFacil\\DulceFacil.Dominio.Servicio\\DulceFacil.Dominio.Servicio.csproj"
               }
             }
           }

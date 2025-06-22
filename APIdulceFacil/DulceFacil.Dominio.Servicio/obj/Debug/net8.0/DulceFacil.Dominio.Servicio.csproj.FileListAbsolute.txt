@@ -1,0 +1,12 @@
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Servicio\bin\Debug\net8.0\DulceFacil.Dominio.Servicio.deps.json
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Servicio\bin\Debug\net8.0\DulceFacil.Dominio.Servicio.dll
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Servicio\bin\Debug\net8.0\DulceFacil.Dominio.Servicio.pdb
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Servicio\obj\Debug\net8.0\DulceFacil.Dominio.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Servicio\obj\Debug\net8.0\DulceFacil.Dominio.Servicio.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Servicio\obj\Debug\net8.0\DulceFacil.Dominio.Servicio.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Servicio\obj\Debug\net8.0\DulceFacil.Dominio.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Servicio\obj\Debug\net8.0\DulceFacil.Dominio.Servicio.sourcelink.json
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Servicio\obj\Debug\net8.0\DulceFacil.Dominio.Servicio.dll
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Servicio\obj\Debug\net8.0\refint\DulceFacil.Dominio.Servicio.dll
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Servicio\obj\Debug\net8.0\DulceFacil.Dominio.Servicio.pdb
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Servicio\obj\Debug\net8.0\ref\DulceFacil.Dominio.Servicio.dll

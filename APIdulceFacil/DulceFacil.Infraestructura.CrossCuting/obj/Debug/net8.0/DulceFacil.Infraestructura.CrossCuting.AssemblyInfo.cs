@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DulceFacil.Infraestructura.CrossCuting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3499f44de2d244ee958f96abcb2ea4209e83186c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DulceFacil.Infraestructura.CrossCuting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DulceFacil.Infraestructura.CrossCuting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

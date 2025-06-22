@@ -1,0 +1,12 @@
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Modelo\bin\Debug\net8.0\DulceFacil.Dominio.Modelo.deps.json
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Modelo\bin\Debug\net8.0\DulceFacil.Dominio.Modelo.dll
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Modelo\bin\Debug\net8.0\DulceFacil.Dominio.Modelo.pdb
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Modelo\obj\Debug\net8.0\DulceFacil.Dominio.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Modelo\obj\Debug\net8.0\DulceFacil.Dominio.Modelo.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Modelo\obj\Debug\net8.0\DulceFacil.Dominio.Modelo.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Modelo\obj\Debug\net8.0\DulceFacil.Dominio.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Modelo\obj\Debug\net8.0\DulceFacil.Dominio.Modelo.sourcelink.json
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Modelo\obj\Debug\net8.0\DulceFacil.Dominio.Modelo.dll
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Modelo\obj\Debug\net8.0\refint\DulceFacil.Dominio.Modelo.dll
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Modelo\obj\Debug\net8.0\DulceFacil.Dominio.Modelo.pdb
+C:\Users\Administrador\Desktop\UNIVERSODAD\SEXTO\DESARROLLO\TareS2-TanyaArias\APIdulceFacil\DulceFacil.Dominio.Modelo\obj\Debug\net8.0\ref\DulceFacil.Dominio.Modelo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DulceFacil.Dominio.Modelo/1.0.0": {
+        "runtime": {
+          "DulceFacil.Dominio.Modelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DulceFacil.Dominio.Modelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
