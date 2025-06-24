@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace DulceFacil.Aplicacion.ServicioImpl
 {
-    public class ClienteServicioImpl : IClienteServicio
+    public readonly class ClienteServicioImpl : IClienteServicio
     {
         private IClienteRepositorio clienteRepositorio;
     public ClienteServicioImpl(BDDulceFacilContext _BDDulceFacilContext)
